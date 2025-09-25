@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 💬 Ask me about **Laravel, React, React Native, Flutter**
+- 💬 Ask me about **Laravel, React, React Native, Flutter, Go Echo, Fiber, Vue**
 
 - 📫 How to reach me **wijaya.angga.j@gmail.com**
 
